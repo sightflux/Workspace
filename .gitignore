@@ -1,0 +1,5 @@
+*.prg
+
+DualDataField/bin/DualDataField.prg.debug.xml
+
+.metadata/
