@@ -1,11 +1,18 @@
 using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 
-class DualDataFieldView extends Ui.DataField {
+class Power3SPAVGView extends Ui.DataField {
 
     function initialize() {
     	mData1 = 0;
     	mData2 = 0;
+    	mPrevTime = -1;
+    	mPowerCount = 0;
+    
+        for(var i = 0 ; i < mAccumPowers.size() ; ++i)
+        {
+        	mAccumPowers[i] = 0;
+        }
         
         DataField.initialize();
     }
@@ -13,19 +20,58 @@ class DualDataFieldView extends Ui.DataField {
     hidden var mData1;
     hidden var mData2;
     
+    hidden var mPrevTime;
+    hidden var mPowerCount;
+    hidden var mAccumPowers = new [30];
+    
     hidden const FIELDNAME = "Power";
-    hidden const LABEL1 = "Cur: ";
+    hidden const LABEL1 = "3sP: ";
     hidden const LABEL2 = "Avg: ";
+    
+    hidden const AVG_POWER_PERIOD = 3;
     
     function getTextColor() 
     {
     	return getBackgroundColor() == Gfx.COLOR_BLACK ? Gfx.COLOR_WHITE : Gfx.COLOR_BLACK;
     }
+    
+    function caculateAvgPerNSecondPower(currentPower, unitSeconds)
+    {
+    	if(mPowerCount < unitSeconds)
+    	{
+    		mAccumPowers[mPowerCount] = currentPower;
+    		++mPowerCount;
+    	}
+    	else
+    	{
+    		for(var i = mPowerCount-1 ; i > 0 ; --i)
+    		{
+    			mAccumPowers[i-1] = mAccumPowers[i];
+    		}
+    		
+    		mAccumPowers[mPowerCount-1] = currentPower;
+    	}
+    	
+    	var result = 0;
+    	for(var i = 0 ; i < unitSeconds ; ++i)
+    	{
+    		result += (mAccumPowers[i]==null ? 0 : mAccumPowers[i]);
+    	}
+    	
+    	return result / unitSeconds;
+    }
 
     //! The given info object contains all the current workout
     //! information. Calculate a value and save it locally in this method.
     function compute(info) {
-        mData1 = info.currentPower;
+        // See Activity.Info in the documentation for available information.
+        if(mPrevTime == -1)
+        {
+        	mPrevTime = info.elapsedTime;
+        }
+        
+    	var calcPower = caculateAvgPerNSecondPower(info.currentPower, AVG_POWER_PERIOD);
+    	mData1 = calcPower;
         mData2 = info.averagePower;
     }
 

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="7" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="8" pc="268435471" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="9" pc="268435484" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="10" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="12" pc="268435516" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="14" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="17" pc="268435575" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="35" pc="268435596" symbol="getTextColor"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="40" pc="268435654" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="42" pc="268435668" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="43" pc="268435687" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="47" pc="268435709" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="49" pc="268435736" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="52" pc="268435777" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="55" pc="268435802" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="56" pc="268435809" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="58" pc="268435824" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="61" pc="268435877" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="68" pc="268435886" symbol="compute"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="70" pc="268435909" symbol="compute"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="73" pc="268435928" symbol="compute"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="74" pc="268435957" symbol="compute"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="75" pc="268435967" symbol="compute"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="83" pc="268435986" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="84" pc="268436029" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="86" pc="268436049" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="88" pc="268436061" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="90" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="91" pc="268436118" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="93" pc="268436187" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="95" pc="268436222" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="97" pc="268436276" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="99" pc="268436369" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="102" pc="268436492" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="104" pc="268436600" symbol="onUpdate"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="111" pc="268436741" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="114" pc="268436760" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="115" pc="268436783" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="119" pc="268436852" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="123" pc="268436921" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="127" pc="268436990" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="131" pc="268437036" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="132" pc="268437079" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="133" pc="268437103" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="134" pc="268437125" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="135" pc="268437149" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGView.mc" lineNum="139" pc="268437171" symbol="onLayout"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGBackground.mc" lineNum="10" pc="268437177" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGBackground.mc" lineNum="14" pc="268437198" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGBackground.mc" lineNum="18" pc="268437221" symbol="setColor"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGBackground.mc" lineNum="22" pc="268437234" symbol="draw"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGBackground.mc" lineNum="23" pc="268437266" symbol="draw"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGApp.mc" lineNum="6" pc="268437281" symbol="initialize"/>
+<entry filename="/Users/choseongho/Documents/Workspace/Power3SPAVG/source/Power3SPAVGApp.mc" lineNum="19" pc="268437308" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268437348" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="21" pc="268437373" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268437400" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268437416" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268437430" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437527" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268437542" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268437594" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268437640" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268437654" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268437751" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268437766" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268437818" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268437864" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268437904" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="45" pc="268437929" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="46" pc="268437956" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="48" pc="268437972" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="49" pc="268437986" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="50" pc="268438109" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="51" pc="268438123" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="52" pc="268438246" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="62" pc="268438286" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="63" pc="268438311" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="64" pc="268438338" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="66" pc="268438354" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438368" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="68" pc="268438491" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="69" pc="268438505" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="70" pc="268438628" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="80" pc="268438668" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="81" pc="268438693" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="82" pc="268438720" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="84" pc="268438736" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="85" pc="268438750" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="86" pc="268438873" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="87" pc="268438887" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="88" pc="268439010" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="98" pc="268439050" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="99" pc="268439075" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="100" pc="268439102" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="102" pc="268439118" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="103" pc="268439132" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="104" pc="268439255" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="105" pc="268439269" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="106" pc="268439392" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="21" symbol="mData2"/>
+<entry id="20" symbol="mData1"/>
+<entry id="23" symbol="mPowerCount"/>
+<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="24" symbol="mAccumPowers"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="17" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="10" object="true" symbol="Power3SPAVGApp"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="8" object="true" symbol="Power3SPAVGView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="16" method="true" symbol="TopRightLayout"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="28" symbol="AVG_POWER_PERIOD"/>
+<entry id="30" method="true" symbol="caculateAvgPerNSecondPower"/>
+<entry id="22" symbol="mPrevTime"/>
+<entry id="27" symbol="LABEL2"/>
+<entry id="26" symbol="LABEL1"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry id="29" method="true" symbol="getTextColor"/>
+<entry id="25" symbol="FIELDNAME"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435575" name="i" stackId="1" startPc="268435546"/>
+<entry endPc="268435777" name="i" stackId="3" startPc="268435736"/>
+<entry endPc="268435877" name="i" stackId="5" startPc="268435824"/>
+<entry endPc="268435883" name="result" stackId="4" startPc="268435654"/>
+<entry endPc="268435983" name="calcPower" stackId="2" startPc="268435886"/>
+<entry endPc="268436738" name="curLabelDim" stackId="3" startPc="268435986"/>
+<entry endPc="268436738" name="curValueDim" stackId="4" startPc="268435986"/>
+<entry endPc="268436738" name="valueView" stackId="2" startPc="268435986"/>
+<entry endPc="268437171" name="valueView" stackId="4" startPc="268437036"/>
+<entry endPc="268437171" name="labelView" stackId="3" startPc="268437036"/>
+<entry endPc="268437174" name="obscurityFlags" stackId="2" startPc="268436741"/>
+<entry endPc="268437218" name="dictionary" stackId="1" startPc="268437177"/>
+<entry endPc="268437901" name="rez_cmp_local_label_label_font" stackId="3" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_label_value_font" stackId="6" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_label_label_fontHeight" stackId="5" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_label_value_fontHeight" stackId="8" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_label_label" stackId="4" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_custom_drawable_LB84VDAY84LN8AUWB9DL" stackId="2" startPc="268437348"/>
+<entry endPc="268437901" name="rez_cmp_local_label_value" stackId="7" startPc="268437348"/>
+<entry endPc="268438283" name="rez_cmp_local_label_label_font" stackId="3" startPc="268437904"/>
+<entry endPc="268438283" name="rez_cmp_local_label_value_font" stackId="5" startPc="268437904"/>
+<entry endPc="268438283" name="rez_cmp_local_custom_drawable_XFEX4PVZC82LLQDQSJRI" stackId="2" startPc="268437904"/>
+<entry endPc="268438283" name="rez_cmp_local_label_label" stackId="4" startPc="268437904"/>
+<entry endPc="268438283" name="rez_cmp_local_label_value" stackId="6" startPc="268437904"/>
+<entry endPc="268438665" name="rez_cmp_local_label_label_font" stackId="3" startPc="268438286"/>
+<entry endPc="268438665" name="rez_cmp_local_label_value_font" stackId="5" startPc="268438286"/>
+<entry endPc="268438665" name="rez_cmp_local_custom_drawable_E2O7Z1PL2VKPQGRMU2W4" stackId="2" startPc="268438286"/>
+<entry endPc="268438665" name="rez_cmp_local_label_label" stackId="4" startPc="268438286"/>
+<entry endPc="268438665" name="rez_cmp_local_label_value" stackId="6" startPc="268438286"/>
+<entry endPc="268439047" name="rez_cmp_local_label_label_font" stackId="3" startPc="268438668"/>
+<entry endPc="268439047" name="rez_cmp_local_label_value_font" stackId="5" startPc="268438668"/>
+<entry endPc="268439047" name="rez_cmp_local_custom_drawable_RT89PBOSMHZEYIYLLKXD" stackId="2" startPc="268438668"/>
+<entry endPc="268439047" name="rez_cmp_local_label_label" stackId="4" startPc="268438668"/>
+<entry endPc="268439047" name="rez_cmp_local_label_value" stackId="6" startPc="268438668"/>
+<entry endPc="268439429" name="rez_cmp_local_label_label_font" stackId="3" startPc="268439050"/>
+<entry endPc="268439429" name="rez_cmp_local_label_value_font" stackId="5" startPc="268439050"/>
+<entry endPc="268439429" name="rez_cmp_local_label_label" stackId="4" startPc="268439050"/>
+<entry endPc="268439429" name="rez_cmp_local_custom_drawable_RYKNYUWW9ZOIBX3F0N81" stackId="2" startPc="268439050"/>
+<entry endPc="268439429" name="rez_cmp_local_label_value" stackId="6" startPc="268439050"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Power3SPAVGView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getTextColor" parent="Power3SPAVGView">
+<documentation/>
+</functionEntry>
+<functionEntry name="caculateAvgPerNSecondPower" parent="Power3SPAVGView">
+<param id="currentPower"/>
+<param id="unitSeconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="Power3SPAVGView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/> information. Calculate a value and save it locally in this method.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Power3SPAVGView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="Power3SPAVGView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Set your layout here. Anytime the size of obscurity of<br/> the draw context is changed this will be called.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Power3SPAVGApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="Power3SPAVGApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="Power3SPAVGApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="Power3SPAVGApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
