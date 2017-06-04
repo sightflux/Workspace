@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="29" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="31" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="33" pc="268435473" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="35" pc="268435503" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="38" pc="268435532" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="39" pc="268435545" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="40" pc="268435558" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="41" pc="268435571" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="42" pc="268435584" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="43" pc="268435597" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="44" pc="268435610" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="46" pc="268435623" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="47" pc="268435636" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="49" pc="268435649" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="54" pc="268435668" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="56" pc="268435672" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="59" pc="268435691" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="60" pc="268435714" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="64" pc="268435783" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="68" pc="268435852" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="72" pc="268435921" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="76" pc="268435967" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="77" pc="268436010" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="78" pc="268436034" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="79" pc="268436056" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="80" pc="268436080" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="83" pc="268436102" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="84" pc="268436139" symbol="onLayout"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="89" pc="268436143" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="92" pc="268436147" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="94" pc="268436157" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="95" pc="268436189" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="96" pc="268436217" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="97" pc="268436239" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="98" pc="268436261" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="99" pc="268436283" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="102" pc="268436305" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="103" pc="268436340" symbol="compute"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="108" pc="268436354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="112" pc="268436358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="115" pc="268436401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="116" pc="268436401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="118" pc="268436428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="122" pc="268436445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="125" pc="268436459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="127" pc="268436479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="130" pc="268436492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="131" pc="268436517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="134" pc="268436590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="135" pc="268436615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="138" pc="268436702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="139" pc="268436727" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="142" pc="268436797" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="143" pc="268436822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="146" pc="268436892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="147" pc="268436917" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="150" pc="268436987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="151" pc="268437012" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="154" pc="268437082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="155" pc="268437107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="158" pc="268437177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="159" pc="268437202" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="162" pc="268437272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="163" pc="268437297" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="167" pc="268437374" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="169" pc="268437378" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="171" pc="268437392" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="172" pc="268437411" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="176" pc="268437433" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="178" pc="268437460" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="181" pc="268437501" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="184" pc="268437526" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="185" pc="268437533" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="187" pc="268437548" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="190" pc="268437601" symbol="caculateAvgPerNSecondPower"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsView.mc" lineNum="193" pc="268437608" symbol="timeConvert"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="9" pc="268437613" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="10" pc="268437617" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="14" pc="268437638" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="17" pc="268437659" symbol="setColor"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="18" pc="268437663" symbol="setColor"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="21" pc="268437674" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="22" pc="268437678" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="23" pc="268437710" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="24" pc="268437722" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="25" pc="268437729" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="26" pc="268437736" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="27" pc="268437743" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="29" pc="268437750" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="30" pc="268437773" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="31" pc="268437808" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsBackground.mc" lineNum="32" pc="268437831" symbol="draw"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="5" pc="268437867" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="6" pc="268437871" symbol="initialize"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="10" pc="268437890" symbol="onStart"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="14" pc="268437895" symbol="onStop"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="18" pc="268437900" symbol="getInitialView"/>
+<entry filename="C:\\Users\\chomh\\workspace\\9Fields\\source\\FieldsApp.mc" lineNum="19" pc="268437904" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268437942" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="20" pc="268437946" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="21" pc="268437970" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268438133" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268438158" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268438210" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268438256" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268438419" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268438444" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268438496" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438542" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268438580" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="42" pc="268438584" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="43" pc="268438608" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="44" pc="268438741" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="47" pc="268438874" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="56" pc="268438912" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="58" pc="268438916" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="59" pc="268438940" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="60" pc="268439073" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="63" pc="268439206" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="72" pc="268439244" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="74" pc="268439248" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="75" pc="268439272" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="76" pc="268439405" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="79" pc="268439538" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="88" pc="268439576" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="90" pc="268439580" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="91" pc="268439604" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="92" pc="268439737" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="95" pc="268439870" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="20" symbol="Infos"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="26" symbol="Y2"/>
+<entry id="25" symbol="Y1"/>
+<entry id="24" symbol="Y0"/>
+<entry id="23" symbol="X2"/>
+<entry id="22" symbol="X1"/>
+<entry id="21" symbol="X0"/>
+<entry id="27" symbol="mPowerCount"/>
+<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="28" symbol="mAccumPowers"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="17" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="33" symbol="gradient"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="32" symbol="currentHR"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="30" symbol="distanceTravel"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="36" method="true" symbol="timeConvert"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry id="34" symbol="timeOfDay"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388750" symbol="currentCadence"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388732" symbol="elapsedTime"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="16" method="true" symbol="TopRightLayout"/>
+<entry id="8388738" symbol="currentSpeed"/>
+<entry id="10" object="true" symbol="FieldsApp"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="31" symbol="currentElevation"/>
+<entry id="35" method="true" symbol="caculateAvgPerNSecondPower"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="8" object="true" symbol="FieldsView"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="29" symbol="power3S"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435532" name="i" stackId="1" startPc="268435503"/>
+<entry endPc="268436102" name="valueView" stackId="4" startPc="268435967"/>
+<entry endPc="268436102" name="labelView" stackId="3" startPc="268435967"/>
+<entry endPc="268436142" name="obscurityFlags" stackId="2" startPc="268435672"/>
+<entry endPc="268437373" name="foreColor" stackId="2" startPc="268436358"/>
+<entry endPc="268437501" name="i" stackId="3" startPc="268437460"/>
+<entry endPc="268437601" name="i" stackId="5" startPc="268437548"/>
+<entry endPc="268437607" name="result" stackId="4" startPc="268437378"/>
+<entry endPc="268437658" name="dictionary" stackId="1" startPc="268437617"/>
+<entry endPc="268437866" name="yGap" stackId="5" startPc="268437678"/>
+<entry endPc="268437866" name="yMax" stackId="3" startPc="268437678"/>
+<entry endPc="268437866" name="xGap" stackId="4" startPc="268437678"/>
+<entry endPc="268437866" name="xMax" stackId="2" startPc="268437678"/>
+<entry endPc="268438579" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437946"/>
+<entry endPc="268438579" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437946"/>
+<entry endPc="268438579" name="rez_cmp_local_custom_drawable_HUQJRVZT97O7TORTNZJX" stackId="2" startPc="268437946"/>
+<entry endPc="268438579" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437946"/>
+<entry endPc="268438579" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437946"/>
+<entry endPc="268438911" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438584"/>
+<entry endPc="268438911" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438584"/>
+<entry endPc="268438911" name="rez_cmp_local_custom_drawable_CFDCPQUH7WKBITTKXKI9" stackId="2" startPc="268438584"/>
+<entry endPc="268439243" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438916"/>
+<entry endPc="268439243" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438916"/>
+<entry endPc="268439243" name="rez_cmp_local_custom_drawable_SEIP6MAWBDBIK1W9B8AY" stackId="2" startPc="268438916"/>
+<entry endPc="268439575" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439248"/>
+<entry endPc="268439575" name="rez_cmp_local_custom_drawable_FRFXK7UFEG42XTINBW5A" stackId="2" startPc="268439248"/>
+<entry endPc="268439575" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439248"/>
+<entry endPc="268439907" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439580"/>
+<entry endPc="268439907" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439580"/>
+<entry endPc="268439907" name="rez_cmp_local_custom_drawable_4NN5N201QRP4BYMS0QFO" stackId="2" startPc="268439580"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="FieldsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="FieldsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="FieldsView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="FieldsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="caculateAvgPerNSecondPower" parent="FieldsView">
+<param id="currentPower"/>
+<param id="unitSeconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="timeConvert" parent="FieldsView">
+<param id="milSeconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FieldsApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="FieldsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="FieldsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="FieldsApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
